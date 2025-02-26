@@ -126,6 +126,7 @@ int main()
 		chislo(i);
 		std::cout << ' ';
 	}
+	std::cout << "ABOBA";
 	return 0;
 }
 
